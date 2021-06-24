@@ -1,0 +1,3 @@
+# DrowsyDetection
+
+Drowsy driving is an important problem that causes hundreds of fatalities each year. Because of this, programs designed to detect a driver's alertness have become more and more necessary. Machine learning models that detect when a driver is sleepy are one type that have been explored. This repository explores a computer vision approach to addressing this problem. Three models were explored, one random forest, a neural network, and a convolutional neural network. Out of these models, the random forest performed the best, followed by the neural network, and finally the convolutional neural network.
